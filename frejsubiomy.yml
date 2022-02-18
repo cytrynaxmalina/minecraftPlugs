@@ -1,0 +1,129 @@
+# biom menu jak nie umiesz to nie zmieniaj chyba że na angielski/niemiecki inne jezyki nie sa obslugiwane 
+
+Autor: [Frejsu]
+
+SUNFLOWER_PLAINS:
+  displayname: "&6Sunflower Plains"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: SUNFLOWER
+  permission: frejsu.biom
+FLOWER_FOREST:
+  displayname: "&6Flower Forest"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: DANDELION
+  permission: frejsu.biom
+ICE_SPIKES:
+  displayname: "&6Ice Spikes"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: PACKED_ICE
+  permission: frejsu.biom
+THE_VOID:
+  displayname: "&6Void"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: ENDER_PEARL
+  permission: frejsu.biom
+SWAMP:
+  displayname: "&6Swamp"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: LILY_PAD
+  permission: frejsu.biom
+BEACH:
+  displayname: "&6Beach"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: SAND
+  permission: frejsu.biom
+BADLANDS:
+  displayname: "&6Badlands"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: RED_SAND
+  permission: frejsu.biom
+DARK_FOREST:
+  displayname: "&6Dark Forest"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: RED_MUSHROOM_BLOCK
+  permission: frejsu.biom
+OCEAN:
+  displayname: "&6Ocean"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: WATER_BUCKET
+  permission: frejsu.biom
+PLAINS:
+  displayname: "&6Plains"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: GRASS
+  permission: frejsu.biom
+DESERT:
+  displayname: "&6Desert"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: SANDSTONE
+  permission: frejsu.biom
+FOREST:
+  displayname: "&6Forest"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: OAK_LOG
+  permission: frejsu.biom
+TAIGA:
+  displayname: "&6Taiga"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: SPRUCE_LOG
+  permission: frejsu.biom
+FROZEN_OCEAN:
+  displayname: "&6Frozen Ocean"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: ICE
+  permission: frejsu.biom
+JUNGLE:
+  displayname: "&6Jungle"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: JUNGLE_LOG
+  permission: frejsu.biom
+BIRCH_FOREST:
+  displayname: "&6Birch Forest"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: BIRCH_LOG
+  permission: frejsu.biom
+SAVANNA:
+  displayname: "&6Savanna"
+  lore:
+    - "&7Kliknij w dany biom"
+    - "&7Biom został wybrany!"
+  material-name: ACACIA_LOG
+  permission: frejsu.biom
+
+
+
+
+
+syntaxhelper.xml('frejsu')
