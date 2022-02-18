@@ -1,0 +1,14 @@
+# tutaj wszystko jak masz localhosta to np :3306
+address: jdbc:mysql://localhost:3306/<databasename>?useSSL=false&autoReConnect=true
+
+# nazwa mysql
+user: <user>
+
+# haslo do mysql
+password: <password>
+
+
+table: buildbattlestats
+
+
+maxLifeTime: 1800000
