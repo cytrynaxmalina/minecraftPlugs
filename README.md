@@ -1,3 +1,3 @@
 # minecraftPlugs
 
-discord; frejsu#7124
+discord; rejnek#7777
